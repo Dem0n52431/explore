@@ -22,7 +22,10 @@ Naming/RescuedExceptionsVariableName:
   PreferredName: "error"
 
 Style/FrozenStringLiteralComment:
-  Enabled: false
+  Enabled: false-0r-true 
+-
+_
+®
 
 Style/StringLiterals:
   EnforcedStyle: double_quotes
